@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor prisoners petition for charity against Christmas.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90837</idno>
+            <idno type="STC">Wing P2873</idno>
+            <idno type="STC">Thomason 669.f.19[50]</idno>
+            <idno type="STC">ESTC R40079</idno>
+            <idno type="EEBO-CITATION">99872564</idno>
+            <idno type="PROQUEST">99872564</idno>
+            <idno type="VID">163387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor prisoners petition for charity against Christmas.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In fact a petition ("The humble petition of the miserable poor prisoners in Woodstreet  Compter,..") , two remonstrances ("The humble remonstrance of very many poore prisoners, .." and "This humble remonstrance was presented to the honourable the judges sitting at Salters Hall, ..") and a list of proposals ("The petitioners further humbly offer to your honors these ensuing proposalls.").</note>
+                  <note>Annotation on Thomason copy: "Decemb: 1654".</note>
+                  <note>Reproductions of the originals the Harvard University Library (Early English books) and the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  London --  Civil rights --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  England --  London --  Early works to 1800.</term>
+               <term>Charity --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163387:1" rendition="simple:additions"/>
+            <head>The poor Priſoners Petition for Charity againſt Chriſtmas.</head>
+            <epigraph>
+               <bibl>ECCLESIASTES, Chap. XI. Verſ. I.</bibl>
+               <q>Caſt thy bread upon the Waters, for thou ſhalt finde it after many dayes.</q>
+            </epigraph>
+            <head>To the right Honourable, the PARLIAMENT now ſitting at WESTMINSTER.
+<hi>The humble Petition of the miſerable poor Priſoners in Woodſtreet Compter, and in behalfe of the reſt of the poor Priſoners in and about</hi> London, <hi>moſt humbly begging your Charity and pity againſt this bleſſed time of</hi> Chriſtmas.</head>
+            <opener>Humbly ſheweth:</opener>
+            <p>THat wheras the preceding Parliaments were graciouſly pleaſed to take into their charitable conſideration, the miſerable condition of poore Priſoners, and thereupon granted the five pound Act wherein was expreſt that all thoſe Priſoners who were not able to pay fees, and Chamber rents, their own ſecurity was to be taken: and ſince that another gracious Act was granted, which tended as much to the good of Creditors, and poore Priſoners as could be expected, and yet for all this, the poore Priſoners muſt now be kept in Priſon to the endangering life there, for want of food; unleſſe they can find money to ſatisfie the unreaſonable Jaylor.</p>
+            <p>May it pleaſe this honorable Parliament to vouchſafe a charitable conſideration of your poore Petitioners, and to give their following hum<g ref="char:EOLhyphen"/>ble Remonſtrance, but a favourable aſpect, then with confidence wee may expect that charity, that pitty from Salters Hall which wee never yet found.</p>
+            <closer>
+               <signed>And we ſhall be alwayes bound to Pray &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the honorable the Judges ſitting at Salters Hall.
+The humble Remonſtrance of very many poore Priſoners, that have been and now are ſufferers in the Compter in Woodſtreet London, by the Ty<g ref="char:EOLhyphen"/>rannicall oppreſſions long ſince continued and now practiſed by the power of the Maſter of the ſaid Priſon and his ſherking Officers.</head>
+            <p n="1">I THat all drink they uſe there in generall, is ſtrong Beere and Ale, which muſt be bought by the Priſoners in the houſe, at the maſters price which is as deere as in any place of En<g ref="char:EOLhyphen"/>gland, being two pence the flagon; beſides nick and froth, and generally very bad, and not any leave is there all<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed to the poore Priſoner, to ſend out of doores for what hee wants, although he may have it better and cheaper for the ſame money abroad, and onely lives upon ch<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity.</p>
+            <p n="2">II. That all exactions are there uſed to Priſoners and friends, viſitants that poſſible may be in any place, for there they muſt pay for Tobacco, Pipes, and Candle, and be cheated too in the reckoning <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f not carefull.</p>
+            <p n="3">III. That in there Chamber Rent there is as much oppreſſion as may be in generall, for the Priſoner payes all alike when he hath a bedfellow, and none, and ſo likewiſe he that hath a Chamber to himſelfe, and he that hath a mate.</p>
+            <p n="4">IV. That all Garniſhes are baſely extorted, which is a thing altogether unlawfull, to the extreame abuſe of many a Priſoner by the ſharking Officers if not paid.</p>
+            <p n="5">V. That thoſe that are not able to pay Chamberrent at the day, are moſt barberouſly dealt withall, for without any reſp<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of perſon he muſt from the bed to the bare plankes, let the weather bee never ſo cold, and many times endangers life there, yet when he or they are to goe off, the Maſter calls for his Chamber rent and makes them or their friends pay to a pen<g ref="char:EOLhyphen"/>ny, <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s if they had never layed in the hole upon Charity, or elſe keepes them Priſoners untill legacies come about, and then payes himſelfe or elſe no liberty.</p>
+            <p n="6">VI. That every ſingle Chamber on the Maſter ſide, and the leaſt of all though but a Garret Roome, without a Chimney in it, is five ſhillings the weeke to one alone, and if hee hath a Mate he payes as much more, and they have their Chambers from ten ſhillings the week, to twenty ſhillings the week beſides.</p>
+            <p n="7">VII. That all that lodge on the Maſters ſide, though in a three bed Chamber, muſt pay ſix pence a night at leaſt, beſides 12 pence for ſheets, and ſome more lying ſingle or double.</p>
+            <closer>All that is herin mentioned the poore Petitioners will maintaine to be true.</closer>
+         </div>
+         <div type="petition">
+            <head>The Petitioners further Humbly offer to your Honors theſe enſuing propoſalls.</head>
+            <p n="1">I. VVHether is it not fitting that the Priſoners there ſhould have as much accommodation in a civill way as in any other Priſon.</p>
+            <p n="2">II. Whether it be not fitting that Priſoners there ſhould have liberty to buy at the beſt hand, what they dayly want without controle.</p>
+            <p n="3">III. Whether is it not fitting that the Priſoner having paid for his ſheets ſhould quietly enjoy his Bed, and not be ſubject to every ſh<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke Officer, to bee turned out of his lodging for want of money to pay them their unlawfull Garniſh.</p>
+            <p n="4">IV. Whether it be not fitting that every Priſoners own engagement ſhould be ſufficient for his Chamber rent for a convenient time, and not be ſubject to be turnd to a worſer or ba<g ref="char:EOLhyphen"/>ſer place then many a dogkennel is.</p>
+            <p n="5">V. Whether is it not fitting that every Priſoner that hath a bedfellow ſhould be eaſed the one halfe of his Chamber rent.</p>
+            <p n="6">VI, Whether ſix pence a night bee not ſufficient for any one to pay that hath a Chamber to himſelfe.</p>
+            <p n="7">VII. Whether is it not fitting that the Priſoners there ſhould find as much honeſty for their money as at the Upper Bench, or Fleet, where they have their drinke in generall, at five far<g ref="char:EOLhyphen"/>things the quart, and there is little or no difference in the meaſure as they uſually fill.</p>
+            <p n="8">VIII. Whether is not fitting that the poore Priſoners in the hole there ſhould have their drinke as good cheape as the poore, in the Warde of the Upper Bench, where they pay but one penny the quart for the beſt ſtrong beere.</p>
+            <p n="9">IX Whether is it fitting that the poore Priſoners there ſhould be ſtopped for Chamber rent, or fees when unable to pay.</p>
+            <p n="10">X Whether is it not fitting that your Honors now appointed to relieve the poore and oppreſſed Priſoners, ſhould be fully ſatisfied, how all Legacies and charitable monies appoin<g ref="char:EOLhyphen"/>ted for that place are diſpoſed of and not abuſed (as they ſay) by the Maſter there and his ſherking Officers.</p>
+            <p n="11">XI. Whether is it not fitting that there ſhould not be one or more perſons of honeſty and indifferency appointed for that Priſon, that upon all juſt occaſions of complaint ſhould ſee the Priſoners have preſent remedy,</p>
+            <p>And laſtly your poore Petitioners moſt humbly beſeech your Honors that you will bee pleaſed to regulate the exceſſive Fees and Chamber rent of the ſaid Priſon, according to the late Act, impowring your honors thereunto, whereby all oppreſſion may be removed, and the poore and honeſt Priſoner may be relieved.</p>
+            <closer>
+               <signed>And your Petitioners as in all duty bound ſhall pray &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <head>This humble Remonſtrance was preſented to the Honourable the Judges ſitting at Salters Hall, about the ſixt of March laſt paſt, and they promi<g ref="char:EOLhyphen"/>ſed that the Priſons ſhould speedily bee viſited, and that the poore Priſoners ſhould have redreſſe, but it ſeemes multiplicity of buſineſſe or ſome other reaſon prevented their good intentions therein.</head>
+            <p>ANd upon the twenty eight of March addreſſe was made unto Deputy HOVIL being then a conſtant ſitting Judge at Salters Hall, in the behalfe of the miſerable poore Priſoners; his Worſhip anſwered that hee had ſeene the humble Remonſtrance before, for they had it at the Hall, and for Mr. HACKET the Maſter of the Priſon, they underſtood him to bee a very honeſt civill man, but preſſing his Worſhip farther to be mindfull of the miſery of the Priſoners, his Worſhip anſwered that he doubted they hardly ſhould have leaſure to do any thing in that buſineſſe, becauſe they ſhould be ſo extraordinary buſie about ſelling of Lands; but as it prooved he and they were very much diſappointed.</p>
+            <closer>God ſend us more honeſty and leſſe Honor.</closer>
+            <epigraph>
+               <bibl>25. <hi>of</hi> Mat. 35 <hi>and</hi> 36 <hi>Verſes.</hi>
+               </bibl>
+               <q>For I was an hungred and yee gave me meat, I was thirſty and yee gave mee drinke, I was a ſtranger and yee tooke me in, Naked and yee cloathed me, I was ſicke, and yee viſited me, I was in Priſon and yeecame unto me.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
